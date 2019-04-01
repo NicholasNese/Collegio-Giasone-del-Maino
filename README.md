@@ -1,0 +1,2 @@
+# Collegio-Giasone-del-Maino
+Questo corpus è stato realizzato per indagare le modalità di variazione sociofonetica in diacronia reale e in diafasia. È stato scelto come contesto d'indagine il collegio universitario pavese “Giasone del Maino”: tale scelta è stata adottata sia per l'eterogeneità della popolazione studentesca, proveniente da tutta Italia, sia per la peculiarità della vita collegiale, che permette di considerare la comunità come una community of practice.
